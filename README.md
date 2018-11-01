@@ -1,7 +1,7 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+# Naam Student: Pinar Kubra Kumurcu
+## Studentnummer: 508357
+## Klas: BI4
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
